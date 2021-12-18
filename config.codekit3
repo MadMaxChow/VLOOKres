@@ -1941,17 +1941,17 @@
       "q" : 50,
       "rq" : 75
     },
-    "\/pic\/vlook-theme-vip-demo.png" : {
+    "\/pic\/vlook-theme-vip-demo@2x.png" : {
       "ft" : 32768,
-      "iS" : 368721,
+      "iS" : 368383,
       "oA" : 0,
-      "oAP" : "\/pic\/vlook-theme-vip-demo.png",
-      "oF" : 1,
-      "oIPL" : 1,
-      "opt" : 1,
+      "oAP" : "\/pic\/vlook-theme-vip-demo@2x.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 50,
+      "q" : 100,
       "rq" : 75
     },
     "\/pic\/vlook-theme-vip.png" : {
