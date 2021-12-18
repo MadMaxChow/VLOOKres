@@ -1941,6 +1941,19 @@
       "q" : 50,
       "rq" : 75
     },
+    "\/pic\/vlook-theme-vip-demo.png" : {
+      "ft" : 32768,
+      "iS" : 122716,
+      "oA" : 0,
+      "oAP" : "\/pic\/vlook-theme-vip-demo.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 50,
+      "rq" : 75
+    },
     "\/pic\/vlook-theme-vip-demo@2x.png" : {
       "ft" : 32768,
       "iS" : 368383,
