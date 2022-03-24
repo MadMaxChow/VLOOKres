@@ -2331,7 +2331,7 @@
       "q" : 50,
       "rq" : 75
     },
-    "\/PRIVACY-statement.md" : {
+    "\/PRIVACY-STATEMENT.md" : {
       "cB" : 0,
       "cS" : 0,
       "eF" : 1,
@@ -2341,7 +2341,7 @@
       "ft" : 4096,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/PRIVACY-statement.html",
+      "oAP" : "\/PRIVACY-STATEMENT.html",
       "oF" : 1,
       "oFM" : 0,
       "oS" : 0,
