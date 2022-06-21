@@ -526,7 +526,7 @@
     },
     "\/pic\/fs-serif.png" : {
       "ft" : 32768,
-      "iS" : 9746,
+      "iS" : 10165,
       "oA" : 0,
       "oAP" : "\/pic\/fs-serif.png",
       "oF" : 0,
@@ -539,7 +539,7 @@
     },
     "\/pic\/fs-serif@2x.png" : {
       "ft" : 32768,
-      "iS" : 20120,
+      "iS" : 21203,
       "oA" : 0,
       "oAP" : "\/pic\/fs-serif@2x.png",
       "oF" : 0,
