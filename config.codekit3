@@ -1755,6 +1755,32 @@
       "q" : 50,
       "rq" : 75
     },
+    "\/pic\/v-color-code.png" : {
+      "ft" : 32768,
+      "iS" : 13366,
+      "oA" : 0,
+      "oAP" : "\/pic\/v-color-code.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/pic\/v-color-code@2x.png" : {
+      "ft" : 32768,
+      "iS" : 30526,
+      "oA" : 0,
+      "oAP" : "\/pic\/v-color-code@2x.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/pic\/vlook-color-scheme-preview.png" : {
       "ft" : 32768,
       "iS" : 37080,
