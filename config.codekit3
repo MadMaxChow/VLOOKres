@@ -599,9 +599,35 @@
       "q" : 50,
       "rq" : 75
     },
+    "\/pic\/fs-book.png" : {
+      "ft" : 32768,
+      "iS" : 6976,
+      "oA" : 0,
+      "oAP" : "\/pic\/fs-book.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/pic\/fs-book@2x.png" : {
+      "ft" : 32768,
+      "iS" : 15674,
+      "oA" : 0,
+      "oAP" : "\/pic\/fs-book@2x.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/pic\/fs-local.png" : {
       "ft" : 32768,
-      "iS" : 4405,
+      "iS" : 1741,
       "oA" : 0,
       "oAP" : "\/pic\/fs-local.png",
       "oF" : 0,
@@ -614,7 +640,7 @@
     },
     "\/pic\/fs-local@2x.png" : {
       "ft" : 32768,
-      "iS" : 9761,
+      "iS" : 3735,
       "oA" : 0,
       "oAP" : "\/pic\/fs-local@2x.png",
       "oF" : 0,
@@ -627,7 +653,7 @@
     },
     "\/pic\/fs-sans.png" : {
       "ft" : 32768,
-      "iS" : 9186,
+      "iS" : 7337,
       "oA" : 0,
       "oAP" : "\/pic\/fs-sans.png",
       "oF" : 0,
@@ -640,7 +666,7 @@
     },
     "\/pic\/fs-sans@2x.png" : {
       "ft" : 32768,
-      "iS" : 18163,
+      "iS" : 14937,
       "oA" : 0,
       "oAP" : "\/pic\/fs-sans@2x.png",
       "oF" : 0,
@@ -653,7 +679,7 @@
     },
     "\/pic\/fs-serif.png" : {
       "ft" : 32768,
-      "iS" : 10165,
+      "iS" : 7874,
       "oA" : 0,
       "oAP" : "\/pic\/fs-serif.png",
       "oF" : 0,
@@ -1770,7 +1796,7 @@
     },
     "\/pic\/vlook-color-code@2x.png" : {
       "ft" : 32768,
-      "iS" : 32565,
+      "iS" : 41242,
       "oA" : 0,
       "oAP" : "\/pic\/vlook-color-code@2x.png",
       "oF" : 0,
