@@ -826,6 +826,26 @@
       "plM" : 52780316221407,
       "prP" : 0
     },
+    "\/pic\/icon-copy-as-markdown.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/pic\/icon-copy-as-markdown.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/pic\/icon-copy.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/pic\/icon-copy.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
     "\/pic\/icon-cover.png" : {
       "ft" : 32768,
       "iS" : 348,
@@ -1033,9 +1053,9 @@
     "\/pic\/icon-pic-in-pic.svg" : {
       "ft" : 2097152,
       "miP" : 0,
-      "oA" : 0,
+      "oA" : 2,
       "oAP" : "\/pic\/icon-pic-in-pic.svg",
-      "oF" : 1,
+      "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
@@ -1116,6 +1136,16 @@
       "oAP" : "\/pic\/icon-table-cross.svg",
       "oF" : 1,
       "opt" : 1,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/pic\/icon-table-wrap.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/pic\/icon-table-wrap.svg",
+      "oF" : 0,
+      "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
