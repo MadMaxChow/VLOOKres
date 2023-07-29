@@ -451,7 +451,7 @@
     },
     "\/pic\/donate-paypal-dark.png" : {
       "ft" : 32768,
-      "iS" : 3649,
+      "iS" : 5417,
       "oA" : 0,
       "oAP" : "\/pic\/donate-paypal-dark.png",
       "oF" : 0,
@@ -464,7 +464,7 @@
     },
     "\/pic\/donate-paypal-dark@2x.png" : {
       "ft" : 32768,
-      "iS" : 8193,
+      "iS" : 11785,
       "oA" : 0,
       "oAP" : "\/pic\/donate-paypal-dark@2x.png",
       "oF" : 0,
@@ -477,15 +477,15 @@
     },
     "\/pic\/donate-paypal-light.png" : {
       "ft" : 32768,
-      "iS" : 18581,
+      "iS" : 5372,
       "oA" : 0,
       "oAP" : "\/pic\/donate-paypal-light.png",
       "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
+      "oIPL" : 0,
+      "opt" : 0,
       "oT" : 1,
       "ou" : "lpckwebp-none",
-      "q" : 50,
+      "q" : 100,
       "rq" : 75
     },
     "\/pic\/donate-paypal-light@2x.png" : {
@@ -1457,7 +1457,7 @@
     },
     "\/pic\/link-error.png" : {
       "ft" : 32768,
-      "iS" : 438,
+      "iS" : 2839,
       "oA" : 0,
       "oAP" : "\/pic\/link-error.png",
       "oF" : 0,
@@ -1826,7 +1826,7 @@
     },
     "\/pic\/vlook-color-code-dark.png" : {
       "ft" : 32768,
-      "iS" : 18886,
+      "iS" : 16724,
       "oA" : 0,
       "oAP" : "\/pic\/vlook-color-code-dark.png",
       "oF" : 0,
@@ -1839,7 +1839,7 @@
     },
     "\/pic\/vlook-color-code-dark@2x.png" : {
       "ft" : 32768,
-      "iS" : 43408,
+      "iS" : 39671,
       "oA" : 0,
       "oAP" : "\/pic\/vlook-color-code-dark@2x.png",
       "oF" : 0,
@@ -1852,7 +1852,7 @@
     },
     "\/pic\/vlook-color-code-light.png" : {
       "ft" : 32768,
-      "iS" : 19087,
+      "iS" : 18385,
       "oA" : 0,
       "oAP" : "\/pic\/vlook-color-code-light.png",
       "oF" : 0,
@@ -1865,7 +1865,7 @@
     },
     "\/pic\/vlook-color-code-light@2x.png" : {
       "ft" : 32768,
-      "iS" : 41281,
+      "iS" : 42393,
       "oA" : 0,
       "oAP" : "\/pic\/vlook-color-code-light@2x.png",
       "oF" : 0,
