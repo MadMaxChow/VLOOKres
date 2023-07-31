@@ -2267,6 +2267,19 @@
       "q" : 50,
       "rq" : 75
     },
+    "\/pic\/vlook-zoom-pic.png" : {
+      "ft" : 32768,
+      "iS" : 3356,
+      "oA" : 0,
+      "oAP" : "\/pic\/vlook-zoom-pic.png",
+      "oF" : 0,
+      "oIPL" : 0,
+      "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
     "\/pic\/二次色.png" : {
       "ft" : 32768,
       "iS" : 4848,
