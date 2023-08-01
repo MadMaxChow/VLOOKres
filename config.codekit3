@@ -1824,11 +1824,11 @@
       "q" : 50,
       "rq" : 75
     },
-    "\/pic\/vlook-color-code-dark.png" : {
+    "\/pic\/vlook-color-card-dark.png" : {
       "ft" : 32768,
-      "iS" : 16724,
+      "iS" : 16599,
       "oA" : 0,
-      "oAP" : "\/pic\/vlook-color-code-dark.png",
+      "oAP" : "\/pic\/vlook-color-card-dark.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -1837,11 +1837,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/pic\/vlook-color-code-dark@2x.png" : {
+    "\/pic\/vlook-color-card-dark@2x.png" : {
       "ft" : 32768,
-      "iS" : 39671,
+      "iS" : 37876,
       "oA" : 0,
-      "oAP" : "\/pic\/vlook-color-code-dark@2x.png",
+      "oAP" : "\/pic\/vlook-color-card-dark@2x.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -1850,11 +1850,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/pic\/vlook-color-code-light.png" : {
+    "\/pic\/vlook-color-card-light.png" : {
       "ft" : 32768,
-      "iS" : 18385,
+      "iS" : 18779,
       "oA" : 0,
-      "oAP" : "\/pic\/vlook-color-code-light.png",
+      "oAP" : "\/pic\/vlook-color-card-light.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -1863,11 +1863,11 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/pic\/vlook-color-code-light@2x.png" : {
+    "\/pic\/vlook-color-card-light@2x.png" : {
       "ft" : 32768,
-      "iS" : 42393,
+      "iS" : 41808,
       "oA" : 0,
-      "oAP" : "\/pic\/vlook-color-code-light@2x.png",
+      "oAP" : "\/pic\/vlook-color-card-light@2x.png",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
