@@ -1878,7 +1878,7 @@
     },
     "\/pic\/vlook-color-card-dark.png" : {
       "ft" : 32768,
-      "iS" : 16599,
+      "iS" : 16646,
       "oA" : 0,
       "oAP" : "\/pic\/vlook-color-card-dark.png",
       "oF" : 0,
@@ -1891,7 +1891,7 @@
     },
     "\/pic\/vlook-color-card-dark@2x.png" : {
       "ft" : 32768,
-      "iS" : 37876,
+      "iS" : 38522,
       "oA" : 0,
       "oAP" : "\/pic\/vlook-color-card-dark@2x.png",
       "oF" : 0,
@@ -1904,7 +1904,7 @@
     },
     "\/pic\/vlook-color-card-light.png" : {
       "ft" : 32768,
-      "iS" : 18779,
+      "iS" : 18675,
       "oA" : 0,
       "oAP" : "\/pic\/vlook-color-card-light.png",
       "oF" : 0,
@@ -1917,7 +1917,7 @@
     },
     "\/pic\/vlook-color-card-light@2x.png" : {
       "ft" : 32768,
-      "iS" : 41808,
+      "iS" : 42884,
       "oA" : 0,
       "oAP" : "\/pic\/vlook-color-card-light@2x.png",
       "oF" : 0,

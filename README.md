@@ -1,1 +1,1 @@
-Resources for [VLOOK](https://github.com/MadMaxChow/VLOOK)
+Resources for **VLOOK™** [(@ GitHub)](https://github.com/MadMaxChow/VLOOK) | [(@ Gitee)](https://gitee.com/madmaxchow/VLOOK)
