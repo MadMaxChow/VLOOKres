@@ -7,7 +7,7 @@
       "uuidString" : "8325E56A-1098-4535-A985-424754F1A70D"
     }
   ],
-  "creatorBuild" : "34335",
+  "creatorBuild" : "34214",
   "files" : {
     "\/.gitignore" : {
       "cB" : 0,
@@ -132,6 +132,32 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/pic\/dg-c4.png" : {
+      "ft" : 32768,
+      "iS" : 3360,
+      "oA" : 0,
+      "oAP" : "\/pic\/dg-c4.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/pic\/dg-c4@2x.png" : {
+      "ft" : 32768,
+      "iS" : 6771,
+      "oA" : 0,
+      "oAP" : "\/pic\/dg-c4@2x.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
@@ -371,32 +397,6 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/pic\/dg-state.png" : {
-      "ft" : 32768,
-      "iS" : 4333,
-      "oA" : 0,
-      "oAP" : "\/pic\/dg-state.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/pic\/dg-state@2x.png" : {
-      "ft" : 32768,
-      "iS" : 9782,
-      "oA" : 0,
-      "oAP" : "\/pic\/dg-state@2x.png",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/pic\/dg-timeline.png" : {
       "ft" : 32768,
       "iS" : 4113,
@@ -444,6 +444,32 @@
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/pic\/dg-zenuml.png" : {
+      "ft" : 32768,
+      "iS" : 5218,
+      "oA" : 0,
+      "oAP" : "\/pic\/dg-zenuml.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
+      "oT" : 1,
+      "ou" : "lpckwebp-none",
+      "q" : 100,
+      "rq" : 75
+    },
+    "\/pic\/dg-zenuml@2x.png" : {
+      "ft" : 32768,
+      "iS" : 10689,
+      "oA" : 0,
+      "oAP" : "\/pic\/dg-zenuml@2x.png",
+      "oF" : 0,
+      "oIPL" : 1,
+      "opt" : 1,
       "oT" : 1,
       "ou" : "lpckwebp-none",
       "q" : 100,
@@ -2901,6 +2927,144 @@
     "buildFolderActive" : 0,
     "buildFolderName" : "build",
     "cleanBuild" : 1,
+    "coffeeLintFlags2" : {
+      "arrow_spacing" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "camel_case_classes" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "colon_assignment_spacing" : {
+        "active" : 0,
+        "flagValue" : 1
+      },
+      "cyclomatic_complexity" : {
+        "active" : 0,
+        "flagValue" : 10
+      },
+      "duplicate_key" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "empty_constructor_needs_parens" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "ensure_comprehensions" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "indentation" : {
+        "active" : 1,
+        "flagValue" : 2
+      },
+      "line_endings" : {
+        "active" : 0,
+        "flagValue" : 0
+      },
+      "max_line_length" : {
+        "active" : 0,
+        "flagValue" : 150
+      },
+      "missing_fat_arrows" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "newlines_after_classes" : {
+        "active" : 0,
+        "flagValue" : 3
+      },
+      "no_backticks" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "no_debugger" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "no_empty_functions" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "no_empty_param_list" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "no_implicit_braces" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "no_implicit_parens" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "no_interpolation_in_single_quotes" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "no_nested_string_interpolation" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "no_plusplus" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "no_private_function_fat_arrows" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "no_stand_alone_at" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "no_tabs" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "no_this" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "no_throwing_strings" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "no_trailing_semicolons" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "no_trailing_whitespace" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "no_unnecessary_double_quotes" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "no_unnecessary_fat_arrows" : {
+        "active" : 1,
+        "flagValue" : -1
+      },
+      "non_empty_constructor_needs_parens" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "prefer_english_operator" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "space_operators" : {
+        "active" : 0,
+        "flagValue" : -1
+      },
+      "spacing_after_comma" : {
+        "active" : 1,
+        "flagValue" : -1
+      }
+    },
     "cssoForceMediaMerge" : 0,
     "cssoRestructure" : 1,
     "environmentVariableEntries" : [
@@ -3613,9 +3777,6 @@
       "no-unused-labels" : {
         "active" : 1
       },
-      "no-unused-private-class-members" : {
-        "active" : 0
-      },
       "no-unused-vars" : {
         "active" : 1,
         "optionString" : "{'vars': 'all', 'args': 'after-used', 'caughtErrors': 'none', 'ignoreRestSiblings': false}"
@@ -3734,9 +3895,6 @@
       "prefer-numeric-literals" : {
         "active" : 0
       },
-      "prefer-object-has-own" : {
-        "active" : 0
-      },
       "prefer-object-spread" : {
         "active" : 0
       },
@@ -3769,8 +3927,7 @@
         "optionString" : "'always'"
       },
       "require-atomic-updates" : {
-        "active" : 0,
-        "optionString" : "{'allowProperties': false}"
+        "active" : 0
       },
       "require-await" : {
         "active" : 0
@@ -3906,6 +4063,7 @@
       "minifierStyle" : 0,
       "outputStyle" : 0,
       "sourceMapStyle" : 0,
+      "syntaxCheckerStyle" : 1,
       "transpilerStyle" : 1
     },
     "languageDefaultsCSS" : {
