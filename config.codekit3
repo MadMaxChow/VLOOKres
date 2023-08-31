@@ -137,32 +137,6 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/pic\/dg-c4.png" : {
-      "ft" : 32768,
-      "iS" : 3360,
-      "oA" : 0,
-      "oAP" : "\/pic\/dg-c4.png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/pic\/dg-c4@2x.png" : {
-      "ft" : 32768,
-      "iS" : 6771,
-      "oA" : 0,
-      "oAP" : "\/pic\/dg-c4@2x.png",
-      "oF" : 0,
-      "oIPL" : 1,
-      "opt" : 1,
-      "oT" : 1,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
     "\/pic\/dg-class.png" : {
       "ft" : 32768,
       "iS" : 4976,
