@@ -624,7 +624,7 @@
       "oA" : 0,
       "oAP" : "\/pic\/feedback-dark.svg",
       "oF" : 1,
-      "opt" : 0,
+      "opt" : 1,
       "plM" : 52780316221407,
       "prP" : 0
     },
@@ -634,7 +634,7 @@
       "oA" : 0,
       "oAP" : "\/pic\/feedback-light.svg",
       "oF" : 1,
-      "opt" : 0,
+      "opt" : 1,
       "plM" : 52780316221407,
       "prP" : 0
     },
